@@ -1,15 +1,16 @@
 # Fdb version 4
-["bibtex mnras_template"] 1770642242.67178 "mnras_template.aux" "mnras_template.bbl" "mnras_template" 1770642535.44492 0
+["bibtex mnras_template"] 1770643373.22214 "mnras_template.aux" "mnras_template.bbl" "mnras_template" 1770643374.2728 0
   "./example.bib" 1770389753.64725 14797 bb7fc78a1bccbcef9c15b8d04921f59d ""
   "./mnras.bst" 1770389753.64825 43376 8463aa2cc1948e346d5641ca59bb4619 ""
-  "mnras_template.aux" 1770642535.20438 3058 932c97ace0ced6fa1904b687d96a2873 "pdflatex"
+  "mnras_template.aux" 1770643374.02398 3058 bf7b4ddb264b7d4b02cff0109de90a9f "pdflatex"
   (generated)
   "mnras_template.bbl"
   "mnras_template.blg"
   (rewritten before read)
-["pdflatex"] 1770642534.47925 "/home/erick/Papers/BlackHoleMergers/mnras_template.tex" "mnras_template.pdf" "mnras_template" 1770642535.44506 0
+["pdflatex"] 1770643373.3326 "/home/erick/Papers/BlackHoleMergers/mnras_template.tex" "mnras_template.pdf" "mnras_template" 1770643374.27295 0
   "/etc/texmf/web2c/texmf.cnf" 1755013356.97449 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/erick/Papers/BlackHoleMergers/mnras_template.tex" 1770642534.31839 17858 f1aba03668e461f447208e4ffc192396 ""
+  "/home/erick/Papers/BlackHoleMergers/mnras_template.tex" 1770643372.07959 23172 00fd5c81364bbf09064f3b2b515d44a2 ""
+  "/usr/share/texlive/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf-pc.enc" 1698694482 3136 bbe665bd0bb471a2da1e8fd326cff9fa ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc" 1698694482 2914 fdbc4a54b9bc76f4551b5303f2737d33 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc" 1422827479 2083 60e36f8eac802fcaf19eabe2633b406e ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -31,6 +32,7 @@
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/ntx-Italic-tlf-t1.tfm" 1708895146 11524 8ba2f557ba7dc63d1e9e4c8cc65c9b60 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/ntx-Regular-tlf-ot1.tfm" 1600636029 3008 ca0c83ca288d9f1c5d2fca0e8e268f10 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/ntx-Regular-tlf-ot1r.tfm" 1690487162 3056 db59b44fb00cc29b676bd92c4dc6750f ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/ntx-Regular-tlf-sc-t1.tfm" 1708895146 12276 8de6ae5fb2f9bd3a12436b80d518726e ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/ntx-Regular-tlf-t1.tfm" 1708895146 11580 86fb9f1fbe830bcc3e5ca9d9fb704e6b ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/ntxbexa.tfm" 1589834365 800 4e4423c03e552840ed0c11d341cfc93b ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/ntxbexx.tfm" 1699567298 1796 77ccd66cbe42a92fac156a3ad0d7cd37 ""
@@ -167,10 +169,10 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1767095746 5467255 9a64d1b40e0b893fc5588ecce9d8accf ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1767095791 3348009 4d84dadca54b7b7f7228840e73b76cc0 ""
   "mnras.cls" 1770389753.64825 62877 710814a5ec55cdaea39f69b454ab1e91 ""
-  "mnras_template.aux" 1770642535.20438 3058 932c97ace0ced6fa1904b687d96a2873 "pdflatex"
-  "mnras_template.bbl" 1770642242.77804 5971 6590fce49c1a22cec162d408333a0aff "bibtex mnras_template"
-  "mnras_template.out" 1770642535.20438 346 528305d98e0c72e9bf4ad63c9a173efa "pdflatex"
-  "mnras_template.tex" 1770642534.31839 17858 f1aba03668e461f447208e4ffc192396 ""
+  "mnras_template.aux" 1770643374.02398 3058 bf7b4ddb264b7d4b02cff0109de90a9f "pdflatex"
+  "mnras_template.bbl" 1770643373.32815 5971 6590fce49c1a22cec162d408333a0aff "bibtex mnras_template"
+  "mnras_template.out" 1770643374.02415 346 528305d98e0c72e9bf4ad63c9a173efa "pdflatex"
+  "mnras_template.tex" 1770643372.07959 23172 00fd5c81364bbf09064f3b2b515d44a2 ""
   (generated)
   "mnras_template.aux"
   "mnras_template.log"
