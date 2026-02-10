@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2025.12.30)  9 FEB 2026 15:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2025.12.30)  10 FEB 2026 12:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -871,9 +871,19 @@ LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
 {/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ts1.enc}]
 
 
+Underfull \hbox (badness 4660) in paragraph at lines 166--167
+\OML/ntxmi/m/it/9 alpha$ \T1/ntxtlf/m/n/9 iron-line meth-ods, or with fu-ture LISA ob-ser-va-
+ []
+
+
+Underfull \hbox (badness 2573) in paragraph at lines 166--167
+\T1/ntxtlf/m/n/9 tions^^Vconstrain masses roughly in the range $\OT1/minntx/m/n/9 10[] [] \U/ntxsym/m/n/9 ®
+ []
+
+
 
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
-(Font)              scaled to size 12.0pt on input line 187.
+(Font)              scaled to size 12.0pt on input line 183.
 [2] (./mnras_template.bbl
 LaTeX Info: Redefining \VAN on input line 1.
 LaTeX Font Info:    Trying to load font information for T1+ntxtt on input line 19.
@@ -883,21 +893,21 @@ File: t1ntxtt.fd 2012/04/20 v3.1
 LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
 (Font)              scaled to size 8.0pt on input line 19.
 
-Underfull \hbox (badness 2961) in paragraph at lines 37--38
+
+
+Underfull \hbox (badness 2961) in paragraph at lines 40--41
 []\T1/ntxtlf/m/n/8 Cheng C.-H., Fi-carra G., Witek H., 2025, De-phas-ing in bi-nary
  []
 
 
-Underfull \hbox (badness 2027) in paragraph at lines 67--68
+Underfull \hbox (badness 2027) in paragraph at lines 70--71
 []\T1/ntxtlf/m/n/8 Srikanth R., Di-et-rich T., Clough K., 2025, Nu-mer-i-cal sim-u-la-tions
  []
 
 
-Underfull \hbox (badness 3019) in paragraph at lines 67--68
+Underfull \hbox (badness 3019) in paragraph at lines 70--71
 \T1/ntxtlf/m/n/8 of Scalar Dark Mat-ter Around Bi-nary Neu-tron Star merg-ers
  []
-
-
 
 )
 
@@ -912,13 +922,13 @@ LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.28pt have occurred.
 
 Package rerunfilecheck Info: File `mnras_template.out' has not changed.
-(rerunfilecheck)             Checksum: 08B703E02AD32BEF6E2EC4CB6445EBCC;3416.
+(rerunfilecheck)             Checksum: 1740E7BB2C0ECE0DD4B226B7ED4D8F5D;3712.
  ) 
 Here is how much of TeX's memory you used:
- 18960 strings out of 473197
- 340922 string characters out of 5718604
- 713523 words of memory out of 5000000
- 41911 multiletter control sequences out of 15000+600000
+ 18966 strings out of 473197
+ 341031 string characters out of 5718604
+ 713607 words of memory out of 5000000
+ 41915 multiletter control sequences out of 15000+600000
  661940 words of font info for 188 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  90i,15n,93p,1115b,1008s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -926,10 +936,10 @@ Here is how much of TeX's memory you used:
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist, replaced by a fixed one
 
 </usr/share/texlive/texmf-dist/fonts/type1/public/newtx/NewTXBMI.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/NewTXMI.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/NewTXMI5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/NewTXMI7.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qtmr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/txmiaX.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/txsym.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/txsys.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/ztmb.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/ztmr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/ztmri.pfb>
-Output written on mnras_template.pdf (3 pages, 205178 bytes).
+Output written on mnras_template.pdf (3 pages, 208487 bytes).
 PDF statistics:
- 253 PDF objects out of 1000 (max. 8388607)
- 220 compressed objects within 3 object streams
- 38 named destinations out of 1000 (max. 500000)
- 97 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 267 PDF objects out of 1000 (max. 8388607)
+ 234 compressed objects within 3 object streams
+ 40 named destinations out of 1000 (max. 500000)
+ 105 words of extra memory for PDF output out of 10000 (max. 10000000)
 

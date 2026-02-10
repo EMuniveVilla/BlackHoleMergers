@@ -1,15 +1,15 @@
 # Fdb version 4
-["bibtex mnras_template"] 1770645807.01276 "mnras_template.aux" "mnras_template.bbl" "mnras_template" 1770645808.1078 0
-  "./example.bib" 1770645339.47513 15677 04f901fe584c1f1f209bdba952ea3357 ""
+["bibtex mnras_template"] 1770724544.41327 "mnras_template.aux" "mnras_template.bbl" "mnras_template" 1770724545.51253 0
+  "./example.bib" 1770724351.42624 16189 98fd0209f3b5d751ac1a413e94fbd0f2 ""
   "./mnras.bst" 1770389753.64825 43376 8463aa2cc1948e346d5641ca59bb4619 ""
-  "mnras_template.aux" 1770645807.82342 4608 cae12087d9d64fd2fc509f66d4ce105c "pdflatex"
+  "mnras_template.aux" 1770724545.26006 4965 824038f26fd37fdd97b9b27fd26fa2b7 "pdflatex"
   (generated)
   "mnras_template.bbl"
   "mnras_template.blg"
   (rewritten before read)
-["pdflatex"] 1770645807.11422 "/home/erick/Papers/BlackHoleMergers/mnras_template.tex" "mnras_template.pdf" "mnras_template" 1770645808.10795 0
+["pdflatex"] 1770724544.5266 "/home/erick/Papers/BlackHoleMergers/mnras_template.tex" "mnras_template.pdf" "mnras_template" 1770724545.5127 0
   "/etc/texmf/web2c/texmf.cnf" 1755013356.97449 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/erick/Papers/BlackHoleMergers/mnras_template.tex" 1770645805.80621 17967 724028667e6817d402f48f86abdbd77c ""
+  "/home/erick/Papers/BlackHoleMergers/mnras_template.tex" 1770724543.27308 19428 c376e986d530ebfe31be151f257a5808 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc" 1698694482 2914 fdbc4a54b9bc76f4551b5303f2737d33 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc" 1422827479 2083 60e36f8eac802fcaf19eabe2633b406e ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -167,10 +167,10 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1767095746 5467255 9a64d1b40e0b893fc5588ecce9d8accf ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1767095791 3348009 4d84dadca54b7b7f7228840e73b76cc0 ""
   "mnras.cls" 1770389753.64825 62877 710814a5ec55cdaea39f69b454ab1e91 ""
-  "mnras_template.aux" 1770645807.82342 4608 cae12087d9d64fd2fc509f66d4ce105c "pdflatex"
-  "mnras_template.bbl" 1770645807.11042 6163 e74c76468ffb72b8675409aa18c4a8e1 "bibtex mnras_template"
-  "mnras_template.out" 1770645807.82442 3416 08b703e02ad32bef6e2ec4cb6445ebcc "pdflatex"
-  "mnras_template.tex" 1770645805.80621 17967 724028667e6817d402f48f86abdbd77c ""
+  "mnras_template.aux" 1770724545.26006 4965 824038f26fd37fdd97b9b27fd26fa2b7 "pdflatex"
+  "mnras_template.bbl" 1770724544.52319 6477 567b0be1551a724fefeb61e0fb082769 "bibtex mnras_template"
+  "mnras_template.out" 1770724545.26006 3712 1740e7bb2c0ece0dd4b226b7ed4d8f5d "pdflatex"
+  "mnras_template.tex" 1770724543.27308 19428 c376e986d530ebfe31be151f257a5808 ""
   (generated)
   "mnras_template.aux"
   "mnras_template.log"
